@@ -14,10 +14,10 @@ To use the code, install the dependencies via pip install networkx numpy, prepar
 
 If you use this repository in your research, please cite the following manuscript:
 
-@article{zhang2025woadeigwo,
+@article{zhang2026woadeigwo,
   title={WOADE-IGWO: An Improved Grey Wolf Optimization Algorithm Combining Differential Evolution and Whale Optimization for Influence Maximization in Social Networks},
   author={Zhang, Yu and Li, Huan and Mo, Xinyue and Na, Xiaoyu and Zeng, Xianhong},
-  year={2025},
+  year={2026},
   note={Manuscript under review}
 }
 
